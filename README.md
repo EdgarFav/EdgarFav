@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Hola soy Edgar Favela y soy full-stack developer 👨‍💻 </div>  
+### <div align="center">Hola soy Edgar Favela y soy Full Stack Developer 👨‍💻 </div>  
   
 
 <br/>  
