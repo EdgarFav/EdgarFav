@@ -1,14 +1,5 @@
 <div align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=%3498DB&size=32&center=true&vCenter=true&width=600&height=50&lines=¡Hola,+soy+Edgar!+%F0%9F%91%8B;Full+Stack+Developer;Frontend+Developer;Backend+Developer;Creativo;Resiliente" alt="Headline" />
 </div>
-<div align="center">
-<a href="https://github.com/https://github.com/EdgarFav" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/edgar-nah%C3%BA-favela-b3a639239/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
 
 Mi primer acercamiento a la programación fue en la universidad con Java, C++ y C#. Luego de descubrir el fascinante mundo de JavaScript, decidí comenzar el bootcamp de SoyHenry donde me formé como Full-Stack Developer. Un proceso intensivo que valió cada minuto de estudio 💪.
 
@@ -58,30 +49,14 @@ Si estás buscando un Desarrollador Backend, Front End o Full Stack con una sól
 
 <br/>  
 
+<div align="center">Contactame!🙋‍♂️</div>
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
-
-<br/>  
-
+<div align="center">
+<a href="https://github.com/https://github.com/EdgarFav" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/edgar-nah%C3%BA-favela-b3a639239/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div>  
   
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
